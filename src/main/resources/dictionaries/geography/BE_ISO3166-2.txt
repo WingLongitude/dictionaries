@@ -1,0 +1,14 @@
+BE-VAN  Antwerp
+BE-VOV  East Flanders
+BE-VBR  Flemish Brabant
+BE-WHT  Hainaut
+BE-VLI  Limburg
+BE-WLG  Liège
+BE-WLX  Luxembourg
+BE-WNA  Namur
+BE-WBR  Walloon Brabant
+BE-VWV  West Flanders
+
+BE-BRU  Brussels-Capital Region
+BE-VLG  Flemish Region
+BE-WAL  Walloon Region
