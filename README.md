@@ -3,8 +3,8 @@ This repository contains only dictionaries that are not included in [GBIF parser
 For all geography related files, this dictionary-based approach (hosted on GitHub) is a transition solution until we move to data provided by geonames.org.
 
 ## Naming convention
- * [[ISO3166 2 letters code]]_ISO3166-2.txt e.g. CA_ISO3166-2.txt
- * [[ISO3166 2 letters code]]_StateProvinceName.txt e.g. CA_StateProvinceName.txt
+ * [[ISO3166 2 letters country code]]_ISO3166-2.txt e.g. CA_ISO3166-2.txt
+ * [[ISO3166 2 letters country code]]_StateProvinceName.txt e.g. CA_StateProvinceName.txt
 
 ## Assumptions
 To simplify the usage of the dictionary files, we assume: 
