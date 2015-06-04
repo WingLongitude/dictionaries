@@ -1,5 +1,4 @@
 # Acre BR-AC
-Ac	BR-AC
 AC	BR-AC
 Acre	BR-AC
 Acre ?	BR-AC
@@ -13,7 +12,6 @@ Territorio do Rio Branco	BR-AC
 TERR. RIO BRANCO	BR-AC
 
 # Alagoas BR-AM
-Al	BR-AL
 AL	BR-AL
 alagoas	BR-AL
 Alagoas	BR-AL
@@ -47,15 +45,11 @@ Terr. Amapa	BR-AP
  Terr. Do Amapa	BR-AP
  
 # Amazonas BR-AM
-Am	BR-AM
 AM	BR-AM
-AM?	BR-AM
 Amaoznas	BR-AM
-Amazona	BR-AM
 Amazona	BR-AM
 Amazona Estado	BR-AM
 Amazona Estado.	BR-AM
-amazonas	BR-AM
 Amazonas	BR-AM
 [Amazonas]	BR-AM
 Amazonas ?	BR-AM
@@ -107,12 +101,10 @@ Territorio Federal Amazonas	BR-AM
 Territorio Federal do Amazonas	BR-AM
  
 # Bahia BR-BA
-Ba	BR-BA
 BA	BR-BA
 BA/ES	BR-BA
 Bah	BR-BA
 BahÃ­a	BR-BA
-bahia	BR-BA
 Bahia	BR-BA
 [Bahia ?]	BR-BA
 Bahia ?	BR-BA
@@ -146,7 +138,6 @@ State of Bahia	BR-BA
 State Of Bahia	BR-BA
 
 # Ceará BR-CE
-Ce	BR-CE
 CE	BR-CE
 Cear	BR-CE
 Cear·	BR-CE
@@ -169,7 +160,6 @@ Estado do Ceara	BR-CE
 State of Ceara	BR-CE
 
 # Distrito Federal BR-DF
-Df	BR-DF
 DF	BR-DF
 D.F.	BR-DF
 Dist. Fed. (DF)	BR-DF
@@ -205,7 +195,6 @@ Federal District, Brasilia	BR-DF
  
 # Espírito Santo BR-ES
 Epírito Santo	BR-ES
-Es	BR-ES
 ES	BR-ES
 EspÃ­rito Santo	BR-ES
 Esirito Santo	BR-ES
@@ -249,7 +238,6 @@ Estado de Goiá¡s	BR-GO
 Est. do Goias	BR-GO
 Gaias	BR-GO
 Ggoiás	BR-GO
-Go	BR-GO
 GO	BR-GO
 Goais	BR-GO
 Goayz	BR-GO
@@ -280,8 +268,8 @@ Goi-s	BR-GO
 Goi·s	BR-GO
 Goi�s	BR-GO
 state of Goias	BR-GO
- State of Goias	BR-GO
- State of Goiás	BR-GO
+State of Goias	BR-GO
+State of Goiás	BR-GO
  
 # Maranhão BR-MA
 Maranh	BR-MA
@@ -335,7 +323,6 @@ Est. do Mato Grosso	BR-MT
 Est. Do Mato Grosso	BR-MT
 Est Mato Grosso	BR-MT
 Est. Mato Grosso	BR-MT
-Mt	BR-MT
 MT	BR-MT
 M.T.	BR-MT
 Mtg	BR-MT
@@ -360,7 +347,6 @@ Mato Grosso Sul State	BR-MS
 Matos Grosso do Sul	BR-MS
 Matto Grasso do Sul	BR-MS
 Matto Grosso do Sul	BR-MS
-Ms	BR-MS
 MS	BR-MS
 Mts	BR-MS
 State of Mato Grosso Do SuI	BR-MS
@@ -373,7 +359,6 @@ Menas Gerais	BR-MG
 E Minas Gerais	BR-MG
 Estado de Minas Gerais	BR-MG
 Est. do Minas Gerais	BR-MG
-Mg	BR-MG
 MG	BR-MG
 M. Geraes	BR-MG
 MG/ES	BR-MG
@@ -406,7 +391,6 @@ state of Minas Gerais	BR-MG
 State of Minas Gerais	BR-MG
  
 # Pará BR-PA
-Pa	BR-PA
 PA	BR-PA
 Par-	BR-PA
 Par??	BR-PA
@@ -454,7 +438,6 @@ Paraiba do Norte	BR-PB
 Parahyba Do Norte	BR-PB
 Paraiba State	BR-PB
 Paralba	BR-PB
-Pb	BR-PB
 PB	BR-PB
 Est. do Paraíba	BR-PB
 
@@ -484,7 +467,6 @@ Paranß	BR-PR
 E Parana	BR-PR
 Estado do Parana	BR-PR
 Estado de Paraná	BR-PR
-Pr	BR-PR
 PR	BR-PR
 PR?	BR-PR
 PROV. PARANA	BR-PR
@@ -493,7 +475,6 @@ state of Parana	BR-PR
 State of Paraná	BR-PR
  
 # Pernambuco BR-PE
-Pe	BR-PE
 PE	BR-PE
 Penambuco	BR-PE
 Per	BR-PE
@@ -588,7 +569,6 @@ Rio Estado	BR-RJ
 Rio Janeiro	BR-RJ
 Rio Janeir. Prov.	BR-RJ
 Rio ou RJ	BR-RJ
-Rj	BR-RJ
 RJ	BR-RJ
 R.J.	BR-RJ
 RJ?	BR-RJ
@@ -655,7 +635,6 @@ rio grande du sud	BR-RS
 Rio Grande Sol	BR-RS
 Rio Grande Sul	BR-RS
 Rio Grando do Sul	BR-RS
-Rs	BR-RS
 R s	BR-RS
 RS	BR-RS
 
@@ -734,7 +713,6 @@ S„o Paulo	BR-SP
 S�o Paulo	BR-SP 
 S�o Paulo*	BR-SP 
 S�o Paulo state	BR-SP 
-Sp	BR-SP 
 SP	BR-SP 
 SP?	BR-SP 
 S. Paulo	BR-SP 
@@ -745,7 +723,6 @@ SùO Paulo	BR-SP
 SÿO Paulo	BR-SP 
 
 # Santa Catarina BR-SC
-Sc	BR-SC
 SC	BR-SC
 SC?	BR-SC
 S. Cararina	BR-SC
@@ -784,7 +761,6 @@ St Catherinae	BR-SC
 Est. Santa Catharina	BR-SC
 
 # Rondônia BR-RO
-Ro	BR-RO
 R o	BR-RO
 RO 	BR-RO
 Est. do Rondônia	BR-RO
@@ -828,7 +804,6 @@ Terr. Roraima (RR)	BR-RR
 Est. do Tocantins	BR-TO
 Estado do Tocantins	BR-TO
 State of Tocantins	BR-TO
-To	BR-TO
 TO	BR-TO
 tocantins	BR-TO
 Tocantins	BR-TO
