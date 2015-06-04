@@ -1,10 +1,8 @@
 # Acre BR-AC
 AC	BR-AC
-Ac	BR-AC
 Acre	BR-AC
 Acre / Amazonas BR-AC
 Acre / Mato Grosso	BR-AC
-Acre ?	BR-AC
 Acre State	BR-AC
 Acre/Amazonas	BR-AC
 Est. Acre	BR-AC
@@ -13,13 +11,10 @@ TERR. RIO BRANCO	BR-AC
 Territorio do Rio Branco	BR-AC
 
 # Alagoas BR-AM
-AL	BR-AL
 Al	BR-AL
 Alagoas	BR-AL
-alagoas	BR-AL
 Alagoas Estado	BR-AL
 Alagoas State	BR-AL
-Alagoas state	BR-AL
 Estado Alagoas	BR-AL
 State of Alagoas	BR-AL
 
@@ -29,7 +24,6 @@ State of Alagoas	BR-AL
 Amap	BR-AP
 Amap??	BR-AP
 Amapa	BR-AP
-amapa	BR-AP
 Amapa State	BR-AP
 Amapa Terr.	BR-AP
 Amap·	BR-AP
@@ -49,18 +43,15 @@ Terr. Do Amapa	BR-AP
 # Amazonas BR-AM
 [Amazonas]	BR-AM
 AM	BR-AM
-Am	BR-AM
 AM?	BR-AM
 Amaoznas	BR-AM
 Amazona	BR-AM
 Amazona Estado	BR-AM
 Amazona Estado.	BR-AM
 Amazonas	BR-AM
-amazonas	BR-AM
 Amazonas (AM)	BR-AM
 Amazonas - Vaupes	BR-AM
 Amazonas / Bahia	BR-AM
-Amazonas / Para	BR-AM
 Amazonas / Para	BR-AM
 Amazonas / Roraima	BR-AM
 Amazonas ?	BR-AM
@@ -69,7 +60,6 @@ Amazonas Estado	BR-AM
 Amazonas Manaus	BR-AM
 Amazonas Province	BR-AM
 Amazonas State	BR-AM
-Amazonas state	BR-AM
 Amazonas State (BR)	BR-AM
 Amazonas, munic. de Uarini	BR-AM
 Amazonas, Rondônia	BR-AM
@@ -101,68 +91,50 @@ Est. do Amazonas	BR-AM
 Estado de Amazonas	BR-AM
 Estado do Amazonas	BR-AM
 State of Amazonas	BR-AM
-state of Amazonas	BR-AM
 Territorio Federal Amazonas	BR-AM
 Territorio Federal do Amazonas	BR-AM
  
 # Bahia BR-BA
 [Bahia ?]	BR-BA
 BA	BR-BA
-Ba	BR-BA
 BA/ES	BR-BA
 Bah	BR-BA
 BahA­a	BR-BA
 Bahia	BR-BA
-bahia	BR-BA
 Bahia & Piaui	BR-BA
 Bahia & Rio de Janeiro	BR-BA
 Bahia / Espirito Santo	BR-BA
 Bahia / Minas Gerais	BR-BA
 Bahia / Pernambuco	BR-BA
 Bahia / Sao Paulo	BR-BA
-Bahia ?	BR-BA
 Bahia District	BR-BA
 Bahia Estado	BR-BA
 Bahia State	BR-BA
-Bahia state	BR-BA
-Bahia*	BR-BA
 Bahia, Brazil	BR-BA
 Bahia, Nossa Shra. da Vitoria	BR-BA
 Bahina	BR-BA
 BahAa	BR-BA
-Bahia	BR-BA
 Baia	BR-BA
 Baiha	BR-BA
 BRAZIL, Bahia	BR-BA
 Est Bahia	BR-BA
 Est. Do Bahia	BR-BA
-Est. do Bahia	BR-BA
 Estado Bahia	BR-BA
-Estado Da Bahia	BR-BA
 Estado da Bahia	BR-BA
 Estado de Bahia	BR-BA
 Estado do bahia	BR-BA
 State Of Bahia	BR-BA
-State of Bahia	BR-BA
 
 # Ceará BR-CE
 CE	BR-CE
-Ce	BR-CE
 Cear	BR-CE
-Cear·	BR-CE
-Ceara	BR-CE
-Ceara	BR-CE
-Ceara	BR-CE
-Ceara ?	BR-CE
 Ceara	BR-CE
 CearA¡	BR-CE
 Ceara District	BR-CE
 Ceara Estado	BR-CE
-Ceara Estado	BR-CE
 Ceara / Minas Gerais	BR-CE
 Ceara Mirim	BR-CE
 Ceara State	BR-CE
-Ceara (State)	BR-CE
 Fortaleza	BR-CE
 Fortaleza Ceara	BR-CE
 Estado do Ceara	BR-CE
@@ -173,8 +145,6 @@ Brasilia	BR-DF
 Brasilia D. F.	BR-DF
 Brasilia DF	BR-DF
 BRASILIA PROV.	BR-DF
-BrasIlia	BR-DF
-Brasilia	BR-DF
 Brasilia - Distrito Federal	BR-DF
 Brasilia Distrito Federal	BR-DF
 Brasilia, Dsto. Federal	BR-DF
@@ -182,7 +152,6 @@ BRAZIL, Distrito Federal	BR-DF
 Brazilian Federal District	BR-DF
 D.F.	BR-DF
 DF	BR-DF
-Df	BR-DF
 Dist. Fed. (DF)	BR-DF
 Dist. Federal	BR-DF
 Disto Federal	BR-DF
@@ -191,7 +160,6 @@ District Federal	BR-DF
 Districto Federal	BR-DF
 Distrito Federa	BR-DF
 Distrito Federal	BR-DF
-Distrito federal	BR-DF
 Distrito Federal (BR)	BR-DF
 Distrito Federal / Goias	BR-DF
 Distrito Federal/Goi?s	BR-DF
@@ -199,25 +167,17 @@ Distrito Federal/Goias	BR-DF
 Distrito Federal	BR-DF
 Dsto. Federal	BR-DF
 Federal Dist	BR-DF
-Federal Dist.	BR-DF
 Federal District	BR-DF
 Federal District, Brasilia	BR-DF
  
 # Espírito Santo BR-ES
-[Espirito Santo]	BR-ES
-Epirito Santo	BR-ES
 Epirito Santo	BR-ES
 ES	BR-ES
-Es	BR-ES
 Esirito Santo	BR-ES
 Esp. Santo	BR-ES
 Esperito Santo	BR-ES
-Esperito santo	BR-ES
 Espirito Paulo	BR-ES
 Espirito Santao	BR-ES
-espirito Santo	BR-ES
-Espirito Santo	BR-ES
-Espirito santo	BR-ES
 Espirito Santo - Minas Gerais	BR-ES
 Espirito Santo ?	BR-ES
 Espirito Santo Estado	BR-ES
@@ -229,12 +189,8 @@ Espiritu Santo Id.	BR-ES
 Espiritu Santos	BR-ES
 Espiru De Santo	BR-ES
 Espirito Santo	BR-ES
-Esp¡rito Santo	BR-ES
 EspÃArito Santo	BR-ES
-EspIrito Santo	BR-ES
-EspIritu Santo	BR-ES
 Espirito Santo	BR-ES
-Espirito santo	BR-ES
 Espiritu Santo	BR-ES
 Esp�rito Santo	BR-ES
 Estado do Espirito Santo	BR-ES
@@ -245,11 +201,9 @@ State of Espirito Santo	BR-ES
 [Goi	BR-GO
 Est. do Goias	BR-GO
 Estado De Goias	BR-GO
-Estado de Goias	BR-GO
 Estado de Goia¡s	BR-GO
 Gaias	BR-GO
 Ggoias	BR-GO
-Go	BR-GO
 GO	BR-GO
 Goais	BR-GO
 Goayz	BR-GO
@@ -258,7 +212,6 @@ Goi s	BR-GO
 Goi-s	BR-GO
 Goiania	BR-GO
 Goias	BR-GO
-goias	BR-GO
 Goias / Minas Gerais	BR-GO
 Goias [Tocantins]	BR-GO
 Goias State	BR-GO
@@ -278,21 +231,17 @@ Goias/Tocantins	BR-GO
 GoiA¡s	BR-GO
 Goi�s	BR-GO
 State of Goias	BR-GO
-state of Goias	BR-GO
  
 # Maranhao BR-MA
 Est. do Maranhao	BR-MA
 Maranh	BR-MA
 Maranh-o	BR-MA
 Maranhao	BR-MA
-maranhao	BR-MA
 Maranhao (Para-Maranhao)	BR-MA
 Maranhao and Para	BR-MA
 Maranhao State	BR-MA
 Maranhao/Piaui	BR-MA
-Maranhao	BR-MA
 Maranha\u0080¹o	BR-MA
-Maranhao	BR-MA
 Maranhao, Sao Paulo	BR-MA
 MaranhA£o	BR-MA
 Maranh„o	BR-MA
@@ -300,11 +249,9 @@ State of Maranaho	BR-MA
 State of Maranhao	BR-MA
  
 # Mato Grosso BR-MT
-[Mato Grosso]	BR-MT
 BRAZIL, Mato Grosso State	BR-MT
 Est Mato Grosso	BR-MT
 Est. do Mato Grosso	BR-MT
-Est. Do Mato Grosso	BR-MT
 Est. Mato Grosso	BR-MT
 Estado de Mato Grosso	BR-MT
 M.T.	BR-MT
@@ -315,8 +262,6 @@ Mato Gorsso	BR-MT
 Mato Grasso	BR-MT
 Mato Grosse	BR-MT
 Mato Grosso	BR-MT
-Mato grosso	BR-MT
-mato grosso	BR-MT
 Mato Grosso / Minas Gerais	BR-MT
 Mato Grosso / Para	BR-MT
 Mato Grosso / Rondônia	BR-MT
@@ -329,14 +274,11 @@ Matogrosso	BR-MT
 Matto Grasso	BR-MT
 Matto Groso	BR-MT
 Matto Grosso	BR-MT
-Matto grosso	BR-MT
 Matto Grosso State	BR-MT
 Mt	BR-MT
 Estado de Mato Grosso	BR-MT
 Est. do Mato Grosso	BR-MT
-Est. Do Mato Grosso	BR-MT
 Est Mato Grosso	BR-MT
-Est. Mato Grosso	BR-MT
 MT	BR-MT
 Mtg	BR-MT
 Rato Grosso	BR-MT
@@ -346,12 +288,9 @@ State of Mato Grosso	BR-MT
 Mato Graso do Sul	BR-MS
 Mato Grosso [do Sul]	BR-MS
 Mato Grosso del Sur	BR-MS
-Mato grosso do sul	BR-MS
 Mato Grosso do Sul	BR-MS
-Mato Grosso Do Sul	BR-MS
 Mato Grosso do Sul / Sao Paulo	BR-MS
 Mato Grosso do Sul ?	BR-MS
-Mato Grosso Do Sul State	BR-MS
 Mato Grosso do Sul State	BR-MS
 Mato Grosso do Sul.	BR-MS
 Mato Grosso so Sul State	BR-MS
@@ -364,11 +303,9 @@ MS	BR-MS
 Mts	BR-MS
 State of Mato Gros So Do SuI	BR-MS
 State of Mato Grosso Do SuI	BR-MS
-State of Mato Grosso Do Sul	BR-MS
 State of Mato Grosso do Sul	BR-MS
  
 # Minas Gerais BR-MG
-[Minas Gerais]	BR-MG
 E Minas Gerais	BR-MG
 Est. do Minas Gerais	BR-MG
 Estado de Minas Gerais	BR-MG
@@ -376,20 +313,14 @@ MG	BR-MG
 M. Geraes	BR-MG
 Menas Gerais	BR-MG
 MG	BR-MG
-Mg	BR-MG
 MG/ES	BR-MG
 Mina Geraes	BR-MG
 Mina Gerais	BR-MG
-Minais gerais	BR-MG
 Minais Gerais	BR-MG
 Minas	BR-MG
 Minas Geraes	BR-MG
-minas geraes	BR-MG
 Minas Geraeus	BR-MG
 Minas Gerais	BR-MG
-minas Gerais	BR-MG
-MInas Gerais	BR-MG
-Minas gerais	BR-MG
 Minas Gerais (MG)	BR-MG
 Minas Gerais / Rio de Janeiro	BR-MG
 Minas Gerais / Sao Paulo	BR-MG
@@ -403,7 +334,6 @@ Minas Geraes	BR-MG
 Minas Minas Gerais	BR-MG
 Mines Gerais	BR-MG
 State of Minas Gerais	BR-MG
-state of Minas Gerais	BR-MG
  
 # Pará BR-PA
 [ParA¡]	BR-PA
@@ -413,20 +343,16 @@ Estado de Para	BR-PA
 Estado do Para	BR-PA
 Estados Para	BR-PA
 PA	BR-PA
-Pa	BR-PA
 Par-	BR-PA
 Par??	BR-PA
 Par?? State	BR-PA
-para	BR-PA
 Para	BR-PA
-Para ?	BR-PA
 Para District	BR-PA
 Para Estado	BR-PA
 Para State	BR-PA
 Para States	BR-PA
 Para/Tocantins?	BR-PA
 Par·	BR-PA
-para	BR-PA
 Para	BR-PA
 Para (PA)	BR-PA
 Para bx/ Amazonas	BR-PA
@@ -438,7 +364,6 @@ ParÃ¡	BR-PA
 ParA¡, SA£o Felix do Xingu	BR-PA
 ParA¡/Maranhao	BR-PA
 Par�	BR-PA
-Para	BR-PA
 State of Par??	BR-PA
 State of Para	BR-PA
  
@@ -447,16 +372,13 @@ Est. do Paraiba	BR-PB
 Parahyba	BR-PB
 Parahyba (= Paraiba)	BR-PB
 Parahyba Do Norte	BR-PB
-paraiba	BR-PB
 Paraiba	BR-PB
 Paraiba ?	BR-PB
 Paraiba do Norte	BR-PB
 Paraiba State	BR-PB
 Paralba	BR-PB
-ParaIba	BR-PB
 Paraiba	BR-PB
 PB	BR-PB
-Pb	BR-PB
 
 # Parana BR-PR
 E Parana	BR-PR
@@ -464,23 +386,18 @@ Est. do Parana	BR-PR
 Estado de Parana	BR-PR
 Estado do Parana	BR-PR
 Paran	BR-PR
-Paran-	BR-PR
 Paran? [?]	BR-PR
-parana	BR-PR
 Parana	BR-PR
 Parana Coast	BR-PR
 Parana Estado	BR-PR
 Parana Province	BR-PR
-Parana state	BR-PR
 Parana State	BR-PR
-Parana?	BR-PR
 Parand	BR-PR
 Paran·	BR-PR
 Paranß	BR-PR
 Parana	BR-PR
 Parana (23.16S-50.04W)	BR-PR
 Parana (23°16'S-50°04W)	BR-PR
-Parana / Sao Paulo	BR-PR
 Parana / Sao Paulo	BR-PR
 Parana State	BR-PR
 ParanA¡	BR-PR
@@ -489,10 +406,8 @@ E Parana	BR-PR
 Estado do Parana	BR-PR
 Estado de Parana	BR-PR
 PR	BR-PR
-Pr	BR-PR
 PR?	BR-PR
 PROV. PARANA	BR-PR
-state of Parana	BR-PR
 State of Parana	BR-PR
  
 # Pernambuco BR-PE
@@ -500,22 +415,18 @@ Est. do Pernambuco	BR-PE
 Estado de Pernambuco	BR-PE
 Estado Pernambuco	BR-PE
 PE	BR-PE
-Pe	BR-PE
 Penambuco	BR-PE
 Per	BR-PE
 Permanbuco	BR-PE
 Pernambuca	BR-PE
 Pernambuca Estado	BR-PE
-pernambuco	BR-PE
 Pernambuco	BR-PE
-Pernambuco ?	BR-PE
 Pernambuco Estado	BR-PE
 Pernambuco State	BR-PE
 Pernanbuco	BR-PE
 Pernanbuco State	BR-PE
 Pernembuco Estado	BR-PE
 Recife	BR-PE
-Recife,	BR-PE
 State of Pernambuco	BR-PE
 
 # Piaui BR-PI
@@ -527,61 +438,41 @@ Piauby	BR-PI
 Piauhy	BR-PI
 Piauhi	BR-PI
 Piaui	BR-PI
-piaui	BR-PI
 Piaui State	BR-PI
 PiauA	BR-PI­
-PiauI	BR-PI
 Piaui	BR-PI
 Piaui (Piauhy)	BR-PI
 Piaui / Santa Catarina	BR-PI
 Piaui-Goias	BR-PI
 State of Piaui	BR-PI
-state of Piaui	BR-PI
 
 # Rio de Janeiro BR-RJ
-(Rio de Janeiro)	BR-RJ
-[Rio de Janeiro- *	BR-RJ
 [Rio de Janeiro-Sao Paulo-Minas Gerais border area]	BR-RJ
-[Rio de Janeiro]	BR-RJ
 Est. do Rio	BR-RJ
-Est. Do Rio	BR-RJ
-Est. Do Rio de Janeiro	BR-RJ
 Est. do Rio de Janeiro	BR-RJ
-Estado de Rio de Janeiro	BR-RJ
 Estado de Rio de Janeiro	BR-RJ
 Estado de R�o de Janeiro	BR-RJ
 Estado do Rio	BR-RJ
-Estado Do Rio	BR-RJ
 Estado do Rio de Janeiro	BR-RJ
 Estado do Rio de Janiero	BR-RJ
 Estado Rio de Janeiro	BR-RJ
 Estado Rio de Janiero	BR-RJ
-Estado Rio de Janeiro	BR-RJ
 R.J.	BR-RJ
 Rio [de Janeiro]	BR-RJ
 Rio de Janeira	BR-RJ
-rio de janeiro	BR-RJ
 Rio de Janeiro	BR-RJ
-Rio de janeiro	BR-RJ
-Rio De Janeiro	BR-RJ
-Rio de Janeiro (RJ	BR-RJ
 Rio de Janeiro (RJ)	BR-RJ
-Rio de Janeiro / Sao Paulo	BR-RJ
 Rio de Janeiro / Sao Paulo	BR-RJ
 Rio de Janeiro :	BR-RJ
 Rio De Janeiro Estado	BR-RJ
 Rio de Janeiro province	BR-RJ
 Rio De Janeiro State	BR-RJ
-Rio de Janeiro State	BR-RJ
 Rio de Janeiro State, Guanabara Bay	BR-RJ
 Rio de Janeiro-Belem	BR-RJ
 Rio de Janeiro-Sao Paulo	BR-RJ
-Rio de Janeiro/Sao Paulo	BR-RJ
-Rio de Janeiro?	BR-RJ
 Rio de Janerio	BR-RJ
 Rio de janero state	BR-RJ
 Rio de Janiero	BR-RJ
-Rio De Janiero	BR-RJ
 Rio De Janiero Estado	BR-RJ
 Rio de Janiero State	BR-RJ
 Rio Estado	BR-RJ
@@ -589,14 +480,12 @@ Rio Janeir. Prov.	BR-RJ
 Rio Janeiro	BR-RJ
 Rio ou RJ	BR-RJ
 RJ	BR-RJ
-Rj	BR-RJ
 RJ ou SP?	BR-RJ
 RJ/MG	BR-RJ
 RJ/SP	BR-RJ
 RJ?	BR-RJ
 RJ? ou SP?	BR-RJ
 RÃ­o de Janeiro	BR-RJ
-Rio de Janeiro	BR-RJ
 Rio de Janeiro/Minas Gerais	BR-RJ
 State of Rio de Janeiro	BR-RJ
 State Rio de Janeiro	BR-RJ
@@ -608,7 +497,6 @@ Estado de Rio Grande do Sul	BR-RS
 Estado do Rio Grande do Sul	BR-RS
 Estado Rio Grande Do Sul	BR-RS
 Porto Alegre	BR-RS
-Porto alegre	BR-RS
 Porto Allegre	BR-RS
 Prov. Rio Grande Do Sul	BR-RS
 R s	BR-RS
@@ -623,94 +511,64 @@ Rio Grande de Sol	BR-RS
 Rio Grande de Sul	BR-RS
 Rio Grande de Sur Province	BR-RS
 Rio Grande del Sol	BR-RS
-Rio Grande Del Sur	BR-RS
 Rio Grande del Sur	BR-RS
 Rio Grande di Sul	BR-RS
 Rio Grande do S	BR-RS
-Rio grande do sol	BR-RS
 Rio Grande Do Sol	BR-RS
-Rio Grande do Sol	BR-RS
 Rio Grande do Sol State	BR-RS
 Rio Grande do Soul	BR-RS
 Rio Grande do sud	BR-RS
 Rio Grande do Sul	BR-RS
-Rio grande do Sul	BR-RS
-Rio Grande Do Sul	BR-RS
-Rio grande do sul	BR-RS
-Rio Grande do sul	BR-RS
 Rio Grande do Sul (RS)	BR-RS
 Rio Grande do Sul / Santa Catarina	BR-RS
 Rio Grande Do Sul / Sao Paulo	BR-RS
-Rio Grande Do Sul ?	BR-RS
 Rio Grande do Sul ?	BR-RS
-Rio Grande Do Sul State	BR-RS
 Rio Grande do Sul State	BR-RS
-Rio Grande Do Sul?	BR-RS
-Rio Grande do Sul?	BR-RS
 Rio Grande do Sur	BR-RS
 rio grande du sud	BR-RS
 Rio Grande Sol	BR-RS
 Rio Grande Sul	BR-RS
 Rio Grando do Sul	BR-RS
 RioGrande do Sul	BR-RS
-Rs	BR-RS
 R s	BR-RS
 RS	BR-RS
 Rio Grande del Sur	BR-RS
 Rio Grande do Sul	BR-RS
-Rio Grande do sul	BR-RS
-Rio grande do sul	BR-RS
 Rio Grande do Sur	BR-RS
 
-# Rio Grande do Norte BR-RN 
-Estado Rio Grande Do Norte	BR-RN
+# Rio Grande do Norte BR-RN
 Estado Rio Grande do Norte	BR-RN
 R. Norte Do Grande	BR-RN
 R.Grande N. State	BR-RN
 R.Grande Norte State	BR-RN
 Rgn	BR-RN
-Rio Grande De Norte	BR-RN
 Rio Grande de Norte	BR-RN
 Rio Grande del Norte	BR-RN
 Rio Grande do Horte	BR-RN
 Rio Grande do nNrte	BR-RN
-Rio grande do norte	BR-RN
-Rio Grande Do Norte	BR-RN
-Rio grande do Norte	BR-RN
-Rio GRande do Norte	BR-RN
 Rio Grande do Norte	BR-RN
 Rio Grande do Norte (State)	BR-RN
 Rio Grande do Norte District	BR-RN
 Rio Grande do Norte State	BR-RN
-Rio Grande Do Norte State	BR-RN
 Rio Grande Nord	BR-RN
 Rio Grande Norte	BR-RN
 RN	BR-RN
-Rio Grande do Norte	BR-RN
 
 # Sao Paulo BR-SP 
 [Sao Paulo]	BR-SP
 BRAZIL, Sao Paulo State	BR-SP
 E Sao Paulo	BR-SP
 Est. do Sao Paulo	BR-SP
-Est. Do Sao Paulo	BR-SP
-Estado de Sao Paulo	BR-SP
 Estado de Sao Paulo	BR-SP
 Estado Sao Paulo	BR-SP
 PROV. SAO PAULO	BR-SP
 Prov. St. Paul	BR-SP
-PROV. SÃO PAULO	BR-SP
 S. Paulo	BR-SP
 Sao - Paulo	BR-SP
 Sao Paolo	BR-SP
 Sao Paolo State	BR-SP
 Sao Pauco	BR-SP
-sao paulo	BR-SP
 Sao Paulo	BR-SP
-Sao paulo	BR-SP
-Sao Paulo (?)	BR-SP
-Sao Paulo *	BR-SP
-Sao Paulo ?	BR-SP
 Sao Paulo Estado.	BR-SP
 Sao Paulo Province	BR-SP
 Sao Paulo State	BR-SP
@@ -718,50 +576,32 @@ Sao Paulo, Litoral Sul	BR-SP
 Sau Paolo	BR-SP
 Sau Paulo	BR-SP
 Sao Paulo	BR-SP
-Sao Paulo	BR-SP
-Sp	BR-SP
 SP	BR-SP
-SP?	BR-SP
-State of sao paulo	BR-SP
-State of Sao Paulo	BR-SP
 State of Sao Paulo	BR-SP
 SA\u008Bo Paulo	BR-SP
 Sao Paulo	BR-SP
 Sao Paolo	BR-SP
 Sao Paraulo	BR-SP
-SaO Paulo	BR-SP
 Sao Paulo	BR-SP
-SÃO Paulo	BR-SP
-Sao paulo	BR-SP
-Sao Paulo ?	BR-SP
 Sao Paulo Estado	BR-SP
 Sao PauloState	BR-SP
-SA£o Paulo	BR-SP
-Säo Paulo	BR-SP
 SuO Paulo	BR-SP
 SÿO Paulo	BR-SP
-Sao Paulo	BR-SP
 S„o Paulo	BR-SP
-S�o Paulo	BR-SP
 S�o Paulo state	BR-SP
-S�o Paulo*	BR-SP
 
 # Santa Catarina BR-SC
 Est. do Santa Catarina	BR-SC
 Est. Santa Catharina	BR-SC
 S�o Paulo state	BR-SP 
 SP	BR-SP 
-SP?	BR-SP 
-S. Paulo	BR-SP 
-State of sao paulo	BR-SP 
-State of Sao Paulo	BR-SP 
-State of São Paulo	BR-SP 
+S. Paulo	BR-SP  
+State of Sao Paulo	BR-SP  
 SuO Paulo	BR-SP 
 SÿO Paulo	BR-SP 
 
 # Santa Catarina BR-SC
 SC	BR-SC
-SC?	BR-SC
 S. Cararina	BR-SC
 S. Catarina	BR-SC
 S.Cat.State	BR-SC
@@ -776,36 +616,27 @@ S.Cat.State	BR-SC
 Santa Cantarina	BR-SC
 Santa Catairna	BR-SC
 Santa Catalina	BR-SC
-santa catarina	BR-SC
-Santa catarina	BR-SC
 Santa Catarina	BR-SC
 Santa Catarina (Catharina)	BR-SC
-Santa Catarina ?	BR-SC
 Santa Catarina Prov.	BR-SC
 Santa Catarina Province	BR-SC
 Santa Catarina State	BR-SC
-Santa catarina state	BR-SC
 Santa Caterida	BR-SC
 Santa Caterina	BR-SC
 Santa Caterina, District Jaragua	BR-SC
 Santa Catharina	BR-SC
-Santa catharina	BR-SC
 Santa Catherina	BR-SC
 SC	BR-SC
-Sc	BR-SC
-SC?	BR-SC
 St Catarina	BR-SC
 St Catherinae	BR-SC
 St. Catharina	BR-SC
 Sta Catarina	BR-SC
 Sta. Cat.	BR-SC
-Sta. Catarina	BR-SC
 Sta. Catharina	BR-SC
 
 # Rondônia BR-RO
 Est. do Rondonia	BR-RO
 R o	BR-RO
-Ro	BR-RO
 RO 	BR-RO
 Rond	BR-RO
 Rond-nia	BR-RO
@@ -817,7 +648,6 @@ Rondonia terr.	BR-RO
 Rondoniai	BR-RO
 RondA´nia	BR-RO
 Rondonia	BR-RO
-Rondonia ?	BR-RO
 RondUnia	BR-RO
 Rondonia/Mato Grosso	BR-RO
 State of Rondonia	BR-RO
@@ -828,29 +658,23 @@ SE	BR-SE
 SE Brazil 	BR-SE
 Ser	BR-SE
 Sergipe	BR-SE
-sergipe	BR-SE
 
 # Roraima BR-RR
-[Roraima]	BR-RR
 Rora	BR-RR
 Roraia	BR-RR
 roraima	BR-RR
 Roraima	BR-RR
 Roraima (Terr.)	BR-RR
-Roraima ?	BR-RR
 Roraima;Amazonas	BR-RR
 RR	BR-RR
 Terr. Roraima	BR-RR
 Terr. Roraima (RR)	BR-RR
 
 # Tocantins BR-TO
-[Tocantins]	BR-TO
 Est. do Tocantins	BR-TO
 Estado do Tocantins	BR-TO
 State of Tocantins	BR-TO
 TO	BR-TO
-To	BR-TO
-tocantins	BR-TO
 Tocantins	BR-TO
 Tocantins/Goias	BR-TO
 Tocatins	BR-TO
