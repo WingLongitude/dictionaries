@@ -33,6 +33,13 @@
     </developer>
   </developers>
   
+  <profiles>
+    <profile>
+      <id>release</id>
+      <!-- empty for now -->
+    </profile>
+  </profiles>
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
