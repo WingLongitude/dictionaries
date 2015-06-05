@@ -1,18 +1,31 @@
 <?xml version="1.0"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  
-  <parent>
-    <groupId>org.sonatype.oss</groupId>
-    <artifactId>oss-parent</artifactId>
-    <version>7</version>
-  </parent>
-  
+    
   <modelVersion>4.0.0</modelVersion>
   <groupId>winglongitude</groupId>
   <artifactId>shared-dictionaries</artifactId>
   <version>0.1-SNAPSHOT</version>
   
   <name>Shared dictionaries</name>
+  
+  <prerequisites>
+    <maven>3.0</maven>
+  </prerequisites>
+  
+  <scm>
+    <connection>scm:git:https://github.com/WingLongitude/shared-dictionaries.git</connection>
+    <developerConnection>scm:git:git@github.com:WingLongitude/shared-dictionaries.git</developerConnection>
+    <url>https://github.com/WingLongitude/shared-dictionaries</url>
+    <tag>HEAD</tag>
+  </scm>
+    
+  <distributionManagement>
+    <repository>
+      <id>bintray</id>
+      <name>winglongitude-maven-shared-dictionaries</name>
+      <url>https://api.bintray.com/maven/winglongitude/maven/shared-dictionaries</url>
+    </repository>
+  </distributionManagement>
   
   <developers>
     <developer>
@@ -23,13 +36,26 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
+    
+    <!-- Plugin Versions -->
+    <maven-release-plugin.version>2.5</maven-release-plugin.version>
+    <maven-remote-resource-plugin.version>1.5</maven-remote-resource-plugin.version>
   </properties>
   
   <build>
     <plugins>
       <plugin>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>${maven-release-plugin.version}</version>
+        <configuration>
+          <useReleaseProfile>false</useReleaseProfile>
+          <releaseProfiles>release</releaseProfiles>
+          <autoVersionSubmodules>true</autoVersionSubmodules>
+        </configuration>
+      </plugin>
+      <plugin>
         <artifactId>maven-remote-resources-plugin</artifactId>
-        <version>1.5</version>
+        <version>${maven-remote-resource-plugin.version}</version>
         <executions>
           <execution>
             <goals>
